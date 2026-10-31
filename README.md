@@ -23,7 +23,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Sobre Mim</h2>
+<h2 data-importer="text" align="left">🛸Sobre Mim</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Stacks</h2>
+<h2 data-importer="text" align="left">🖥️Stacks</h2>
 
 ###
 
