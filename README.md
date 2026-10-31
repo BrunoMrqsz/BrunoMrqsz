@@ -1,17 +1,14 @@
-# BrunoMarqsz
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=71&fontColor=0cc25e&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#1e679c"  />
+<div align="center">
+
+![Olá, me chamo Bruno!](https://readmes.pages.dev/text/say/Olá%2C%20me%20chamo%20Bruno!/typing/)
+
+<h3>Estudante de Engenharia de Software</h3>
+
+<p>
+ A little world made of curiosity, creativity and code.
+</p>
+
 </div>
-
-###
-
-<br clear="both">
-
-<h3 data-importer="text" align="center">Bruno Marques</h3>
-
-###
-
-<h4 data-importer="text" align="center">Estudante de Engenharia de Software</h4>
 
 ###
 
@@ -87,7 +84,7 @@
 </div>
 
 ###
-
+<h4 data-importer="text" align="center">The feels are temporary, the commits are forever.</h4>
 <h4 data-importer="text" align="center">:D</h4>
 
 ###
