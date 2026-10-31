@@ -7,7 +7,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="center">Bruno Marques</h3>
+<h1 data-importer="text" align="center">Bruno Marques</h1>
 
 ###
 
