@@ -23,7 +23,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🛸Sobre Mim</h2>
+<h2 data-importer="text" align="left">👾Sobre Mim</h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 <h4 data-importer="text" align="center">The feels are temporary, the commits are forever.</h4>
-<h4 data-importer="text" align="center">:D</h4>
+<h4 data-importer="text" align="center">🛸</h4>
 
 ###
 
